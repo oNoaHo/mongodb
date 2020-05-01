@@ -20,7 +20,7 @@ lastname = ['Müller', 'Schmidt', 'Schneider', 'Fischer', 'Weber', 'Meyer', 'Wag
             'Schuler', 'Scholl', 'Uhlig', 'Brüggemann', 'Specht', 'Bürger', 'Eggert', 'Baumgartner', 'Weller', 'Schnell', 'Börner', 'Brauer', 'Kohler', 'Pfaff', 'Auer', 'Drescher', 'Otte', 'Frenzel', 'Petzold', 'Rother', 'Hagemann', 'Sattler', 'Wirtz', 'Ruf', 'Schirmer', 'Sauter', 'Schürmann', 'Junker', 'Walz', 'Dreyer', 'Sievers', 'Haller', 'Prinz', 'Stolz', 'Hausmann', 'Dick', 'Lux', 'Schnabel', 'Elsner', 'Kühl', 'Gerhardt', 'Klotz', 'Rabe', 'Schick', 'Faber', 'Riedl', 'Kranz', 'Fries', 'Reichelt', 'Rösch', 'Langner', 'Maaß', 'Wittig', 'Geier', 'Finke', 'Kasper', 'Maas', 'Bremer', 'Rath', 'Knapp', 'Dittmann', 'Kahl', 'Volk', 'Faust', 'Harder', 'Biermann', 'Pütz', 'Kempf', 'Mielke', 'Michaelis', 'Yilmaz', 'Abel', 'Thieme', 'Schütt', 'Hauck', 'Cordes', 'Eberle', 'Schaefer', 'Wehner', 'Haug', 'Fritzsche', 'Kilian', 'Eggers', 'Große', 'Matthes', 'Reinhold', 'Paulus', 'Dürr', 'Bohn', 'Thoma', 'Schober', 'Koller', 'Korn', 'Höhne', 'Hering', 'Gerdes', 'Ullmann', 'Jensen', 'Endres', 'Bernhard', 'Leonhardt', 'Eckhardt', 'Schaaf', 'Höfer', 'Junge', 'Rademacher', 'Pilz', 'Hellwig', 'Knorr', 'Helbig', 'Melzer', 'Lippert', 'Evers', 'Bahr', 'Klinger', 'Heitmann', 'Ehrhardt', 'Heinrichs', 'Horstmann', 'Behr', 'Stöhr', 'Drews', 'Rudolf', 'Sieber', 'Theis', 'Groth', 'Hecker', 'Weiler', 'Kemper', 'Rost', 'Lück', 'Claus', 'Hildebrand', 'Steinmetz', 'Götze', 'Trautmann', 'Blume', 'Kurth', 'Augustin', 'Nitsche', 'Janke', 'Jahnke', 'Klug', 'Damm', 'Heimann', 'Strauch', 'Schlosser', 'Uhl', 'Böhmer', 'Ries', 'Hellmann', 'Höhn', 'Hertel', 'Dreher', 'Borchert', 'Huth', 'Sperling', 'Just', 'Stenzel', 'Kunkel', 'Lau', 'Sprenger', 'Schönfeld', 'Pohlmann', 'Heilmann', 'Wacker', 'Lehner', 'Teichmann', 'Kaminski', 'Vogl', 'Gehrke', 'Hartl', 'Vogler', 'Schroeder', 'Thomsen', 'Nitschke', 'Engler', 'Liedtke', 'Wille', 'Starke', 'Friedrichs', 'Kirchhoff', 'Schwarze', 'Balzer', 'Reinhard', 'Heinen', 'Lotz', 'Küster', 'Kretzschmar', 'Schöne', 'Clemens', 'Hornung', 'Ulbrich', 'Renz', 'Hofer', 'Ruppert', 'Lohse', 'Schuh', 'Amann', 'Westermann', 'Stiller', 'Burmeister', 'Alt', 'Hampel', 'Brockmann', 'Wessel', 'Späth', 'Hoyer', 'Mader', 'Bartel', 'Rößler', 'Krieg', 'Grote', 'Schwarzer', 'Schweitzer', 'Scheer', 'Bosch', 'Zink', 'Roos', 'Wagener', 'Oppermann', 'Henze', 'Lehnert', 'Seemann', 'Trapp', 'Reiß', 'David', 'Pfeffer', 'Grau', 'Horst', 'Diekmann', 'Korte', 'Rehm', 'Wilde', 'Schleicher', 'Lampe', 'Grundmann', 'Veit', 'Daniel', 'Eisele', 'Hafner', 'Steinert', 'Sachs', 'Pfister', 'Kühnel', 'Schüller', 'Klatt', 'Bischof', 'Schwabe', 'Wendel', 'Tietz', 'Frick', 'Buschmann', 'Steinke', 'Menke', 'Baumeister', 'Kirschner', 'Loos', 'Ebner', 'Kastner', 'Wolters', 'Orth', 'Stange', 'Becher', 'Reinke', 'Brendel', 'Behnke', 'Schweiger', 'Kolbe', 'Schmidtke', 'Süß', 'Rühl', 'Gläser', 'Heider', 'Seibert', 'Heckmann', 'Reitz', 'Baumgart', 'Riemer', 'Helm', 'Knobloch', 'Wörner', 'Heyer', 'Nguyen', 'Baumgärtner', 'Grund', 'Brüning', 'Ostermann', 'Cremer', 'Schauer', 'Jacobi', 'Ewald', 'Fürst', 'Widmann', 'Otten', 'Büchner', 'Petri', 'Fritsche', 'Kock', 'Ehlert', 'Kleine', 'Eckstein', 'Hacker', 'Brandes', 'Buchner', 'Hagedorn', 'Keck', 'Häusler', 'Muth', 'Apel', 'Heuser', 'Bastian', 'Kersten', 'Stamm', 'Niemeyer', 'Berthold', 'Gehrmann', 'Weinert', 'Schatz', 'Hager', 'Volkmann', 'Michael', 'Wieczorek', 'Wilms', 'Burghardt', 'Schultze', 'Merten', 'Schwartz', 'Kling', 'Rode', 'Neu', 'Mende', 'Thies', 'Böttger', 'Schell', 'Spindler', 'Pabst', 'Grün', 'Weiland', 'Mühlbauer', 'Hanisch', 'Doll', 'Janzen', 'Adams', 'Hermes', 'Haack', 'Cramer', 'Spies', 'Stern', 'Kugler', 'Budde', 'Jakobs', 'Scheller', 'Rösler', 'Reiser', 'Jonas', 'Herr', 'Ebeling', 'Wulff', 'Pauli', 'Löhr', 'Lukas', 'Rahn', 'Sachse', 'Köhn', 'Backhaus', 'Mahler', 'Hille', 'Kowalski', 'Heidrich', 'Brück', 'Gottwald', 'Heidenreich', 'Baumgarten', 'Hamm', 'Körber', 'Kübler', 'Frisch', 'Hardt', 'Enders', 'Bräuer', 'Seidler', 'Küpper', 'Lauterbach', 'Zeidler', 'Eckardt', 'Kreuzer', 'Schiffer', 'Schaper', 'Gehring', 'Hannemann', 'Ortmann', 'Petry', 'Thiemann', 'Tiedemann', 'Grünewald', 'Johannsen', 'Scheel', 'Volz', 'Kunert', 'Dieckmann', 'Bormann', 'Obermeier', 'Knauer', 'Schaub', 'Eilers', 'Berner', 'Pahl', 'Reinecke', 'Herz', 'Henn', 'Brehm', 'Hoff', 'Resch', 'Ochs', 'Krohn', 'Lerch', 'Raabe', 'Ehrlich', 'Hack', 'Friedl', 'Reis', 'Rogge', 'Meurer', 'Thelen', 'Drechsler', 'Hölscher', 'Morgenstern', 'Sommerfeld', 'Ebel', 'Kellermann', 'Rupprecht', 'Post', 'Hillebrand', 'Hill', 'Paulsen', 'Grabowski', 'Bolz', 'Lorenzen', 'Welsch', 'Seibel', 'Kleinert', 'Schröer', 'Jaeger', 'Wächter', 'Boldt', 'Palm', 'Kratz', 'Reimers', 'Pusch', 'Exner', 'Dietze', 'Wüst', 'Andres', 'Heide', 'Kaya', 'Reichardt', 'Kummer', 'Metzner', 'Grube', 'Ewert', 'Grunwald', 'Habermann', 'Zorn', 'Fichtner', 'Emmerich', 'Mangold', 'Reif', 'Ahlers', 'Kästner', 'Küppers', 'Petermann', 'Stratmann', 'Sailer', 'Schuhmacher', 'Hoch', 'Struck', 'Buchmann', 'Rauscher', 'Lüdtke', 'Wendler', 'Dreier', 'Zöller', 'Bucher', 'Siegert', 'Finger', 'Hopf', 'Rieck', 'Friese', 'Hopp', 'Sahin', 'Henrich', 'Spengler']
 department = ['Oberarzt', 'Fondsmanager', 'Anwalt', 'Tax Manager', 'Vertirebsingenieur', 'CEO',
               'CFO', 'Programmierer', 'Ingeneur', 'IT-Architekt', 'Architekt', 'Küchenhilfe', 'Kellner']
-for x in range(1, 5000001):
+for x in range(1, 50001):
     fname = firstname[randint(0, (len(firstname) - 1))]
     lname = lastname[randint(0, (len(lastname) - 1))]
     dep = department[randint(0, (len(department) - 1))]
@@ -169,13 +169,45 @@ for x in range(1, 5000001):
         ]
     }
     # Step 3: Insert business object directly into MongoDB via isnert_one
-    result = ddiadmindb.users.insert_one(user)
+#    result = ddiadmindb.users.insert_one(user)
     # Step 4: Print to the console the ObjectID of the new document
-    print('Created {0} of 5000000 as {1}'.format(x, result.inserted_id))
+#    print('Created {0} of 5000000 as {1}'.format(x, result.inserted_id))
 # Step 5: Tell us that you are done
 print('finished creating 5000000 business reviews')
 end_time = time.time()
-for fivestar in ddiadmindb.users.find({"id": 'gy1tv1'}):
-    pprint.pprint(fivestar)
+# for fivestar in ddiadmindb.users.find({"id": 'gy1tv1'}):
+#    pprint.pprint(fivestar)
+ASingleReview = users.find_one({"id": 'gy1tv1'})
+print('A sample document:')
+pprint.pprint(ASingleReview)
+
+
+# ADD SINGEL RECORD TO ARRAY
+result = users.update_one(
+    {'_id': ASingleReview.get('_id')},
+    {'$addToSet': {'zones': {'name': 'apac.13floor.de', 'expire': '02.02.2022',
+                             'view': 'default', 'grid': 'internal', 'rights': {'a': 1, 'aaaa': 0, 'ptr': 1, 'cname': 1, 'srv': 0, 'mx': 0, 'txt': 0, 'host': 1}}}}
+)
+print('Number of documents modified : ' + str(result.modified_count))
+
+UpdatedDocument = users.find_one({'_id': ASingleReview.get('_id')})
+print('The updated document:')
+pprint.pprint(UpdatedDocument)
+
+UPDATE SINGLE RECORDS IN ARRAY
+ASingleReview = users.find_one({"id": 'gy1tv1'})
+print('A sample document:')
+pprint.pprint(ASingleReview)
+
+result = users.update_one(
+    {'_id': ASingleReview.get('_id'), 'zones.name': 'apac.13floor.de'},
+    {'$set': {"zones.$": {'name': 'emea.13floor.de', 'expire': '02.02.2022', 'view': 'default', 'grid': 'internal',
+                          'rights': {'a': 1, 'aaaa': 0, 'ptr': 1, 'cname': 0, 'srv': 1, 'mx': 0, 'txt': 1, 'host': 0}}}}
+)
+print('Number of documents modified : ' + str(result.modified_count))
+
+UpdatedDocument = users.find_one({'_id': ASingleReview.get('_id')})
+print('The updated document:')
+pprint.pprint(UpdatedDocument)
 
 print("required time to calculate is :", end_time-start_time)
